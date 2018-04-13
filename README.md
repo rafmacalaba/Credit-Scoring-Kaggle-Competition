@@ -1,0 +1,1 @@
+This Repository contains the notebook of a Credit Scoring pet project of mine. which uses features such as Monthly Income, Number of dependents, age of the borrower etc. I used a ensemble tree model in this pet project which is GradientBoostingClassifier.
